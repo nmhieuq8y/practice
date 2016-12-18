@@ -1,3 +1,6 @@
 [submodule "submodules"]
 	path = submodules
 	url = https://github.com/nmhieuq8y/submodules.git
+[submodule "src/common"]
+	path = src/common
+	url = https://github.com/nmhieuq8y/inproject.git
